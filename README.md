@@ -4,7 +4,7 @@
 <!--Section 1: Introduction-->
 
 ## 🌟 About Me  
-Innovative Data Analyst with an MSc in Financial Economics and hands-on experience in data visualization, statistical modelling, and financial forecasting.
+Innovative Data Analyst with an MSc in Financial Economics and hands-on experience in Data visualization, Data modelling, and financial forecasting.
 Proficient in transforming complex datasets into actionable business insights using **Power BI**, **Excel**, **DAX**, **SQL** and **Tableau**.
 I build dynamic dashboards, streamline reporting workflows, and support data-driven decision-making.
 🚀 Let’s turn data into impactful stories!  
@@ -24,9 +24,9 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
 ## 💼 Work Experience  
 
 ### 🔹 Data Analyst Intern — *Rows & Columns, Kozhikode*  
-- Cleaned and transformed company datasets using **Excel (Power Query, Pivot Tables, formulas) and SQL**, ensuring data accuracy and consistency.  
-- Built and optimized data models in **Power BI** to support efficient analysis and visualization of key performance indicators.
-- Developed interactive dashboards and reports that simplified complex data, enhancing team insights and decision-making
+- Performed data cleaning, transformation, and validation using **SQL** and **Advanced Excel (Power Query, Pivot Tables, formulas)** to ensure data accuracy and reporting integrity.  
+- Developed and optimized **Power BI** data models, including relationships and calculated measures, to support **KPI tracking, performance analysis, and management reporting**.
+- Delivered actionable business insights and improved data-driven decision-making across teams
   
 ### 🔹 Assistant Professor — *Government Model Engineering College, Cochin, Kerala*  
 - Designed and delivered lectures on Industrial Economics and Foreign Trade, emphasizing data-driven insights into market structures and trade policies.
