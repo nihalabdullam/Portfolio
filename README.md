@@ -32,3 +32,25 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
 - Designed and delivered lectures on Industrial Economics and Foreign Trade, emphasizing data-driven insights into market structures and trade policies.
 - Developed and delivered interactive lectures using real-world case studies and data analysis to illustrate complex economic theories effectively.
 - Mentored **500+** engineering students in applying economic principles to real world industrial and trade scenarios using case studies and data analysis.
+
+---
+
+## 📊 Projects  
+
+###  HR Analytics Dashboard 
+🌍 Designed an HR Analytics dashboard using **MySQL and Power BI** to analyse employee demographics, salary trends, departmental performance, and workforce health
+🔍 Built **SQL views with joins across multiple tables** to extract hire, resignation, payroll, and department-level data for KPI reporting and attrition analysis  
+📈 Generated actionable insights on gender imbalance, high-paying departments, declining salary trends, and rising attrition, supporting data-driven HR decision-making 
+![image](HR Dashboard Overview.png)
+![image](HR Dashboard Analysis.png)
+
+---
+
+### Hospitality Analysis – [Power BI and Excel]  
+🏨 AtliQ Grands faced declining market share and revenue due to poor management decisions.  
+💡 Developed interactive dashboards to analyze key metrics, including RevPAR, ADR, and occupancy.  
+📊 Insights supported decision-making for enhanced performance.  
+
+
+
+
