@@ -39,7 +39,7 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
 
 ###  HR Analytics Dashboard 
 🌍 Designed an HR Analytics dashboard using **MySQL and Power BI** to analyse employee demographics, salary trends, departmental performance, and workforce health
-🔍 Built **SQL views with joins across multiple tables** to extract hire, resignation, payroll, and department-level data for KPI reporting and attrition analysis  
+🔍 Built **SQL views with joins across multiple tables** to extract hire, resignation, payroll, and department-level data for KPI reporting and attrition analysis. 
 📈 Generated actionable insights on gender imbalance, high-paying departments, declining salary trends, and rising attrition, supporting data-driven HR decision-making 
 ![image](HR Dashboard Overview.png)
 ![image](HR Dashboard Analysis.png)
@@ -48,7 +48,7 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
 
 ### CRM Sales Performance & Pipeline Analysis Dashboard  
 🏨 Developed an interactive **Power BI dashboard analyzing 3,000+ CRM records totalling 8.2M+ in deal value**, providing insights on sales agent performance, conversion rates, and deal trends.   
-💡 Constructed **10+ DAX calculations** and data models to track KPIs including conversion rates, sales cycle durations, and product wise deal closures across multiple countries and industries
+💡 Constructed **10+ DAX calculations** and data models to track KPIs including conversion rates, sales cycle durations, and product wise deal closures across multiple countries and industries.
 📊 Delivered actionable, user-friendly visuals maps, funnels, bar charts, and scatter plots enabling data driven pipeline optimization and strategic sales decision-making. 
 ![image](CRM Dashboard Overview.png)
 ![image](CRM Dashboard 2.png)
@@ -58,10 +58,10 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
 ---
 
 ### Financial Modelling: Premium Bus Service Feasibility
-🏨 Designed detailed financial statements, including Income, Cash Flow, and Balance Sheets, for business evaluation 
-💡 Applied **Net Present Value (NPV) and Internal Rate of Return (IRR)** to determine project viability
-📊 Provided actionable insights through data visualization and financial projections for strategic decision-making 
-![image](6-Basic_Model_FSA - 1 (4).xlsx)
+🏨 Designed detailed financial statements, including Income, Cash Flow, and Balance Sheets, for business evaluation. 
+💡 Applied **Net Present Value (NPV) and Internal Rate of Return (IRR)** to determine project viability.
+📊 Provided actionable insights through data visualization and financial projections for strategic decision-making .
+
 
 
 
