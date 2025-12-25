@@ -59,9 +59,13 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
 
 ### Financial Modelling: Premium Bus Service Feasibility
 🏨 Designed detailed financial statements, including Income, Cash Flow, and Balance Sheets, for business evaluation. 
-💡 Applied **Net Present Value (NPV) and Internal Rate of Return (IRR)** to determine project viability.
-📊 Provided actionable insights through data visualization and financial projections for strategic decision-making .
 
+💡 Applied **Net Present Value (NPV) and Internal Rate of Return (IRR)** to determine project viability.
+
+📊 Provided actionable insights through data visualization and financial projections for strategic decision-making .
+![image](Excel 1.png)
+![image](Excel 2.png)
+![image](Excel 3.png)
 
 
 
