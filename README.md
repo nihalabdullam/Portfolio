@@ -41,8 +41,8 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
 - 🌍 Designed an HR Analytics dashboard using **MySQL and Power BI** to analyse employee demographics, salary trends, departmental performance, and workforce health.
 - 🔍 Built **SQL views with joins across multiple tables** to extract hire, resignation, payroll, and department-level data for KPI reporting and attrition analysis.
 - 📈 Generated actionable insights on gender imbalance, high-paying departments, declining salary trends, and rising attrition, supporting data-driven HR decision-making 
-![image](HR Dashboard Overview.png)
-![image](HR Dashboard Analysis.png)
+![image](HR 1.png)
+![image](HR 2.png)
 
 ---
 
