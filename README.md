@@ -46,11 +46,22 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
 
 ---
 
-### Hospitality Analysis – [Power BI and Excel]  
-🏨 AtliQ Grands faced declining market share and revenue due to poor management decisions.  
-💡 Developed interactive dashboards to analyze key metrics, including RevPAR, ADR, and occupancy.  
-📊 Insights supported decision-making for enhanced performance.  
+### CRM Sales Performance & Pipeline Analysis Dashboard  
+🏨 Developed an interactive **Power BI dashboard analyzing 3,000+ CRM records totalling 8.2M+ in deal value**, providing insights on sales agent performance, conversion rates, and deal trends.   
+💡 Constructed **10+ DAX calculations** and data models to track KPIs including conversion rates, sales cycle durations, and product wise deal closures across multiple countries and industries
+📊 Delivered actionable, user-friendly visuals maps, funnels, bar charts, and scatter plots enabling data driven pipeline optimization and strategic sales decision-making. 
+![image](CRM Dashboard Overview.png)
+![image](CRM Dashboard 2.png)
+![image](CRM Dashboard 3.png)
+![image](CRM Dashboard 4.png)
 
+---
+
+### Financial Modelling: Premium Bus Service Feasibility
+🏨 Designed detailed financial statements, including Income, Cash Flow, and Balance Sheets, for business evaluation 
+💡 Applied **Net Present Value (NPV) and Internal Rate of Return (IRR)** to determine project viability
+📊 Provided actionable insights through data visualization and financial projections for strategic decision-making 
+![image](6-Basic_Model_FSA - 1 (4).xlsx)
 
 
 
