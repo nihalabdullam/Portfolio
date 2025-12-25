@@ -100,7 +100,7 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="">Download my CV</a></td>
+      <td><a href="Nihal Abdulla Analyst Resume.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
