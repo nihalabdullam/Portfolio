@@ -38,18 +38,18 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
 ## 📊 Projects  
 
 ###  HR Analytics Dashboard 
-🌍 Designed an HR Analytics dashboard using **MySQL and Power BI** to analyse employee demographics, salary trends, departmental performance, and workforce health
-🔍 Built **SQL views with joins across multiple tables** to extract hire, resignation, payroll, and department-level data for KPI reporting and attrition analysis. 
-📈 Generated actionable insights on gender imbalance, high-paying departments, declining salary trends, and rising attrition, supporting data-driven HR decision-making 
+- 🌍 Designed an HR Analytics dashboard using **MySQL and Power BI** to analyse employee demographics, salary trends, departmental performance, and workforce health.
+- 🔍 Built **SQL views with joins across multiple tables** to extract hire, resignation, payroll, and department-level data for KPI reporting and attrition analysis.
+- 📈 Generated actionable insights on gender imbalance, high-paying departments, declining salary trends, and rising attrition, supporting data-driven HR decision-making 
 ![image](HR Dashboard Overview.png)
 ![image](HR Dashboard Analysis.png)
 
 ---
 
 ### CRM Sales Performance & Pipeline Analysis Dashboard  
-🏨 Developed an interactive **Power BI dashboard analyzing 3,000+ CRM records totalling 8.2M+ in deal value**, providing insights on sales agent performance, conversion rates, and deal trends.   
-💡 Constructed **10+ DAX calculations** and data models to track KPIs including conversion rates, sales cycle durations, and product wise deal closures across multiple countries and industries.
-📊 Delivered actionable, user-friendly visuals maps, funnels, bar charts, and scatter plots enabling data driven pipeline optimization and strategic sales decision-making. 
+- 🏨 Developed an interactive **Power BI dashboard analyzing 3,000+ CRM records totalling 8.2M+ in deal value**, providing insights on sales agent performance, conversion rates, and deal trends.
+- 💡 Constructed **10+ DAX calculations** and data models to track KPIs including conversion rates, sales cycle durations, and product wise deal closures across multiple countries and industries.
+- 📊 Delivered actionable, user-friendly visuals maps, funnels, bar charts, and scatter plots enabling data driven pipeline optimization and strategic sales decision-making. 
 ![image](CRM Dashboard Overview.png)
 ![image](CRM Dashboard 2.png)
 ![image](CRM Dashboard 3.png)
@@ -58,14 +58,57 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
 ---
 
 ### Financial Modelling: Premium Bus Service Feasibility
-🏨 Designed detailed financial statements, including Income, Cash Flow, and Balance Sheets, for business evaluation. 
-
-💡 Applied **Net Present Value (NPV) and Internal Rate of Return (IRR)** to determine project viability.
-
-📊 Provided actionable insights through data visualization and financial projections for strategic decision-making .
+- 🏨 Designed detailed financial statements, including Income, Cash Flow, and Balance Sheets, for business evaluation. 
+- 💡 Applied **Net Present Value (NPV) and Internal Rate of Return (IRR)** to determine project viability.
+- 📊 Provided actionable insights through data visualization and financial projections for strategic decision-making .
 ![image](Excel 1.png)
 ![image](Excel 2.png)
 ![image](Excel 3.png)
+
+---
+
+## 📜 Certifications  
+- ✅ IBM - Excel Basics for Data Analysis (Coursera) 
+- ✅	IBM - Introduction to Data Analytics (Coursera)  
+
+---
+
+## 🧠 Tools & Skills  
+![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
+![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)    
+
+---
+
+## 📫 Contact Details  
+*Let’s connect and see how we can make a difference together!*  
+
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:nihalabdullamuyippoth@gmail.com">nihalabdullamuyippoth@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(+974) 59984136</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Al Aziziyah, Doha, Qatar</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/nihalabdullam">Let’s connect on LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
