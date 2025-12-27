@@ -5,7 +5,7 @@
 
 ## 🌟 About Me  
 Innovative Data Analyst with an MSc in Financial Economics and hands-on experience in Data visualization, Data modelling, and financial forecasting.
-Proficient in transforming complex datasets into actionable business insights using **Power BI**, **Excel**, **DAX**, **SQL** and **Tableau**.
+Proficient in transforming complex datasets into actionable business insights using **Power BI**, **Excel**, **DAX**, **SQL** **Tableau** and **Python**.
 I build dynamic dashboards, streamline reporting workflows, and support data-driven decision-making.
 🚀 Let’s turn data into impactful stories!  
 
@@ -78,6 +78,7 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white)    
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
 
 ---
 
