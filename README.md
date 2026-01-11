@@ -35,7 +35,15 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
 
 ---
 
-## 📊 Projects  
+## 📊 Projects 
+
+###  Car Insurance Portfolio & Claims Analysis Dashboard  
+- 🌍 Analyzed 37,541 car insurance policies using Power BI, creating DAX measures to calculate total claim value of $1.88B and core portfolio-level KPIs.
+- 🔍 Cleaned and transformed insurance data in Power Query, correcting data types, resolving missing values, and standardizing 10+ categorical variables including coverage zone, car use, education level, vehicle make, kids driving, and car year to ensure analytical accuracy.
+- 📈 Designed an interactive Insurance Risk & Claims Analysis dashboard using slicers and visuals to analyze policy distribution by gender, coverage zone, car use, vehicle make, and car year, supporting data-driven insurance risk assessment.
+![image](Insurance Dashboard.png)
+
+---
 
 ###  HR Analytics Dashboard 
 - 🌍 Designed an HR Analytics dashboard using **MySQL and Power BI** to analyse employee demographics, salary trends, departmental performance, and workforce health.
