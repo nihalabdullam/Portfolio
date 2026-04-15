@@ -25,8 +25,8 @@ I build dynamic dashboards, streamline reporting workflows, and support data-dri
 
 ### 🔹 Sales Administrator — *Al Abdulghani Motors, Doha, Qatar*  
 - Processed sales orders and generated invoices after verifying customer documentation for cash, credit, and bank-financed transactions, ensuring accurate and timely completion of delivery documentation within **SAP and Salesforce**.  
-- Maintained and analysed **CRM and sales databases** to track customer orders, pipeline status, and lost sales trends, supporting the sales team with insights for follow-ups and lead conversion.
-- Developed interactive Power BI dashboards using CRM and sales data to visualize **KPIs such as sales performance, order status, and conversion rates** enabling data-driven decision-making and performance monitoring.
+- Maintained and analysed **CRM and sales databases** to track **customer orders, pipeline status, and lost sales trends**, supporting the sales team with insights for follow-ups and lead conversion.
+- Developed interactive **Power BI dashboards** using CRM and sales data to visualize **KPIs such as sales performance, order status, and conversion rates** enabling data-driven decision-making and performance monitoring.
 
 ### 🔹 Data Analyst Intern — *Rows & Columns, Kozhikode*  
 - Performed data cleaning, transformation, and validation using **SQL** and **Advanced Excel (Power Query, Pivot Tables, formulas)** to ensure data accuracy and reporting integrity.  
